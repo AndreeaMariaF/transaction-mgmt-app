@@ -1,4 +1,4 @@
-package org.example.transactionsapp.Advice;
+package org.example.transactionsapp.advice;
 
 import org.example.transactionsapp.exception.*;
 import org.springframework.core.Ordered;
